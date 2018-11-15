@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/GridColumnOnClickSelection/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/GridColumnOnClickSelection/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/GridColumnOnClickSelection/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/GridColumnOnClickSelection/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to select all column cells by clicking the column header with the Ctrl key pressed
 
 
